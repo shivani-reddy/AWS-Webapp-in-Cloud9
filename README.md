@@ -3,7 +3,16 @@ Project Title: Building a Web App and IDE in AWS
 
 Presented by: Shivani Gondi
 
+💂 Set up an IAM user: You created a new IAM user with admin permissions to provide a safer alternative to using the AWS root account for ongoing projects.
+
+☁️ Launch a new Cloud9 IDE: You set up a new Cloud9 IDE environment to write, run, and debug code without installing heavy software locally.
+
+⬇️ Install Maven & Java: You installed Apache Maven and Amazon Corretto 8 on your Cloud9 IDE to manage your project's dependencies for developing a Java web application.
+
+🏗️ Create the application: Using Maven, you generated a new Java web app from a template, creating a basic project structure and environment for further development.
+
 Introducing Today's Project
+
 What is AWS Cloud9 and Why is it Useful?
 AWS Cloud9 is an Integrated Development Environment (IDE) that allows you to write, run, and debug your code with just a browser. It’s useful for:
 
